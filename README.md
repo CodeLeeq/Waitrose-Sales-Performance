@@ -28,6 +28,8 @@ Transform data for analysis using ETL (Extract, Transform, Load) processes, Aggr
 6. DAX Calculations (Dynamic Analysis Expressions)
 Write DAX formulas for advanced calculations (e.g., time intelligence, ranking, running totals), Create measures for KPIs and key metrics, and Validate calculations against business expectations.
 7. Charts Development and Formatting
-Select the most appropriate visualizations (e.g., bar charts, line charts, scatter plots).
-Format charts for readability (e.g., axis titles, labels, tooltips).
-Highlight key insights using colors, markers, or annotations.
+Select the most appropriate visualizations (e.g., bar charts, line charts, scatter plots), Format charts for readability (e.g., axis titles, labels, tooltips), Highlight key insights using colors, markers, or annotations.
+8. Dashboard Development
+Assemble all visualizations into a cohesive dashboard, Incorporate filters, slicers, and interactive elements for user control, and Ensure all metrics and visuals align with the project objectives.
+9. Insights Generation
+Analyze the dashboard to derive actionable insights, Create a summary of key findings, trends, and anomalies, and Share insights with stakeholders through presentations or reports.
