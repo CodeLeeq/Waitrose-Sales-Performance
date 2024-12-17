@@ -26,4 +26,8 @@ Handle missing or null values by imputation or removal, Remove duplicate entries
 5. Data Processing
 Transform data for analysis using ETL (Extract, Transform, Load) processes, Aggregate data as needed (e.g., by month, region, or product), and Create intermediate datasets to simplify complex calculations.
 6. DAX Calculations (Dynamic Analysis Expressions)
-Write DAX formulas for advanced calculations (e.g., time intelligence, ranking, running totals), Create measures for KPIs and key metrics, Validate calculations against business expectations.
+Write DAX formulas for advanced calculations (e.g., time intelligence, ranking, running totals), Create measures for KPIs and key metrics, and Validate calculations against business expectations.
+7. Charts Development and Formatting
+Select the most appropriate visualizations (e.g., bar charts, line charts, scatter plots).
+Format charts for readability (e.g., axis titles, labels, tooltips).
+Highlight key insights using colors, markers, or annotations.
